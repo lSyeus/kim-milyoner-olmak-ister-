@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "79fc0dd2-e297-4d90-ba00-911e16a10728": {
+      "ProjectGuid": "79fc0dd2-e297-4d90-ba00-911e16a10728",
+      "DisplayName": "kim_milyoner_olmak_ister",
+      "ColorIndex": 0
+    },
+    "26df4aad-afca-4ba7-867c-8a64db8aa2ac": {
+      "ProjectGuid": "26df4aad-afca-4ba7-867c-8a64db8aa2ac",
+      "DisplayName": "SQLLoader",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

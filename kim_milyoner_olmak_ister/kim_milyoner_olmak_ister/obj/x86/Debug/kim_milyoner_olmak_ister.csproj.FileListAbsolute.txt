@@ -1,0 +1,132 @@
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\kim_milyoner_olmak_ister.exe.config
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\kim_milyoner_olmak_ister.exe
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\kim_milyoner_olmak_ister.pdb
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\itextsharp.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\tr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.exe.config
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form12.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form11.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form15.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form14.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form225.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form4.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form1.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form10.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form5.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form6.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form7.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form8.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form2.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form3.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Properties.Resources.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.GenerateResource.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.CopyComplete
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.exe
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.pdb
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.AssemblyReference.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Lyeus.mdf
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Lyeus_log.ldf
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.xml
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.xml
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.exe.config
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.exe
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.pdb
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Lyeus.mdf
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Lyeus_log.ldf
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\kim_milyoner_olmak_ister.exe.config
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\kim_milyoner_olmak_ister.exe
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\kim_milyoner_olmak_ister.pdb
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\itextsharp.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.xml
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.xml
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\tr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form12.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form11.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form15.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form14.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form4.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form1.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form10.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form5.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form6.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form7.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form8.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form2.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form3.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Properties.Resources.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.GenerateResource.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.CopyComplete
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Lyeus.mdf
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Lyeus_log.ldf
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\kim_milyoner_olmak_ister.exe.config
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\kim_milyoner_olmak_ister.exe
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\kim_milyoner_olmak_ister.pdb
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\itextsharp.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.xml
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\System.Data.SQLite.xml
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\bin\Debug\tr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.AssemblyReference.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.exe.config
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form12.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form11.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form15.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form14.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form4.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form1.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form10.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form5.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form6.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form7.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form8.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form2.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Form3.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.Properties.Resources.resources
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.GenerateResource.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.csproj.CopyComplete
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.exe
+C:\Users\CASPER\Visual Studio CSharp\kim_milyoner_olmak_ister_2 - Kopya - Kopya\kim_milyoner_olmak_ister\kim_milyoner_olmak_ister\obj\x86\Debug\kim_milyoner_olmak_ister.pdb
